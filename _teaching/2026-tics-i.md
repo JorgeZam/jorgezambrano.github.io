@@ -1,5 +1,5 @@
 ---
-title: "TICS I (CIT2505)"
+title: "TICs Project I (CIT2505)"
 collection: teaching
 category: instructor
 type: "Undergraduate course"
