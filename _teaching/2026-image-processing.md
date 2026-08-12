@@ -2,7 +2,7 @@
 title: "Image Processing (CIT3501_CA01)"
 collection: teaching
 category: instructor
-type: "Undergraduate course"
+type: "Undergraduate/Postgraduate course"
 permalink: /teaching/2026-image-processing
 venue: "Universidad Diego Portales, Escuela de Ingeniería Informática"
 date: 2026-08-01
