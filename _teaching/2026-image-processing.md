@@ -9,7 +9,7 @@ date: 2026-08-01
 location: "Santiago, Chile"
 ---
 
-An advanced undergraduate course on digital image processing, covering the theoretical foundations and practical implementation of techniques for image enhancement, analysis, and computer vision. Topics include spatial and frequency-domain processing, color image analysis, multiresolution representations, filtering, mathematical morphology, segmentation, feature detection and description, Hough transforms, and applications in image understanding using Python.
+An advanced undergraduate/postgraduated course on digital image processing, covering the theoretical foundations and practical implementation of techniques for image enhancement, analysis, and computer vision. Topics include spatial and frequency-domain processing, color image analysis, multiresolution representations, filtering, mathematical morphology, segmentation, feature detection and description, Hough transforms, and applications in image understanding using Python.
 
 ## Technologies and Tools
 
